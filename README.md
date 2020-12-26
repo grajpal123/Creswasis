@@ -7,5 +7,9 @@ https://nbviewer.jupyter.org/github/grajpal123/Creswasis/blob/main/Predicting%20
 
 2) House Rent Prediction.
 
+https://nbviewer.jupyter.org/github/grajpal123/Creswasis/blob/main/Rent_Prediction.ipynb
+
+
+
 
 
